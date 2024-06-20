@@ -7,7 +7,7 @@ Pelaksanaan Project Massive ini merupakan project terakhir dimana dalam project 
 
 | Nama           | GitHub Link        |
 |----------------|--------------------|
-| Adinda Jaida Fauziyah | [adinda jaida fauziyah](https://github.com/Elsande)   |
-| Masta Angel Valentina  | [Masta Angel Valentina ](https://github.com/IqbalMaulana7) |
-| Roes Byandra  | [RizkyHardian](https://github.com/RizkyHardian)  |
-| Yumna Ilahi    | [Yumnailahi04](https://github.com/Yumnailahi04)         |
+| Adinda Jaida Fauziyah | [adinda jaida fauziyah](https://github.com/adindajaidafauziyah)|
+| Masta Angel Valentina  | [Masta Angel Valentina](https://github.com/angelvlntnn)|
+| Roes Byandra  | [byandra](https://github.com/byandra)|
+| Yumna Ilahi    | [Yumnailahi04](https://github.com/Yumnailahi04)|

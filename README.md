@@ -53,10 +53,23 @@ Melihat permasalahan tersebut, kami tergerak untuk menghadirkan solusi inovatif 
 
 
   
-### 2. Algorithm
-- Framework
-- Pembangunan Model
-- Model Evaluation
+### 2. Framework & Algorithm
+- Fitur Prediksi
+
+Kami memilih Scikit-Learn sebagai framework AI untuk membangun model klasifikasi dalam identifikasi status gizi bayi. Scikit-Learn dipilih karena kemudahan penggunaannya dan efisiensinya dalam membangun model pembelajaran mesin. Framework ini menyediakan berbagai algoritma untuk klasifikasi, regresi, dan klasterisasi, yang sangat berguna dalam analisis data gizi dan kesehatan anak. Selain itu, Scikit-Learn memiliki dokumentasi yang baik dan komunitas pengguna yang luas, memudahkan proses pembelajaran dan implementasi. Integrasinya dengan library Python seperti NumPy dan pandas mendukung analisis data kompleks, menjadikannya ideal untuk prediksi status gizi anak
+
+Kami juga menerapkan algoritma klasifikasi untuk membangun model yang memprediksi status gizi berdasarkan usia, jenis kelamin, dan tinggi badan. Algoritma klasifikasi memungkinkan model mempelajari pola dan hubungan antara fitur-fitur ini dengan kategori gizi yang telah ditentukan. Model klasifikasi dilatih menggunakan dataset yang mencakup variasi usia, jenis kelamin, dan tinggi badan bayi, sehingga mampu mengenali pola dan memprediksi status gizi bayi baru berdasarkan data yang diberikan. Algoritma ini dipilih karena kemampuannya dalam menganalisis kombinasi fitur-fitur tersebut untuk memprediksi status gizi dengan akurasi tinggi.
+  
+- Fitur Chatbot
+
+Kami menggunakan IBM Watson Assistant untuk fitur chatbot. Ada beberapa alasan utama untuk memilihnya:
+1. Antarmuka berbasis drag and drop memudahkan pengguna membangun dan mengonfigurasi asisten virtual tanpa memerlukan pengetahuan pemrograman mendalam.
+2. Watson Assistant dapat diintegrasikan dengan berbagai platform dan aplikasi, termasuk website, aplikasi mobile, serta saluran komunikasi seperti Slack dan Facebook Messenger.
+3. Sebagai bagian dari IBM Cloud, Watson Assistant dapat menangani skala besar dan beban kerja tinggi dengan performa yang konsisten.
+
+Kami menggunakan layanan IBM Watson Assistant untuk membangun fitur chatbot tersebut, sehingga tidak ada algoritma khusus yang kami pakai. Layanan IBM Watson Assistant yang kami gunakan sudah menyediakan kemampuan AI bawaan untuk memahami bahasa alami.
+  
+
 
 <div style="text-align: center;">
   <h2>Prototype</h2>

@@ -121,6 +121,6 @@ Untuk fitur chatbot sendiri proses deploymentnya itu berupa proses publishing ch
  ![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/8e05d7b8-0b5c-444d-b586-53839a29591d)
 
 <div style="text-align: center;">
-  <h2>conclusion</h2>
+  <h2>Conclusion</h2>
 </div>
 Proyek ini mengembangkan solusi digital melalui StunCare Chatbot dan Sistem Prediksi Tingkat Kesehatan Status Gizi Bayi untuk mengatasi masalah stunting di Indonesia. StunCare Chatbot memanfaatkan teknologi AI untuk memberikan informasi dan edukasi tentang gizi anak serta pencegahan stunting kepada orang tua, sementara Sistem Prediksi menggunakan model klasifikasi AI untuk mengidentifikasi tingkat kesehatan status gizi bayi berdasarkan data umur, jenis kelamin, dan tinggi badan. Proyek ini bertujuan untuk menurunkan prevalensi stunting, meningkatkan kesadaran orang tua, memperluas akses informasi gizi, serta meningkatkan deteksi dini dan intervensi terhadap stunting.  

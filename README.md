@@ -44,9 +44,14 @@ Melihat permasalahan tersebut, kami tergerak untuk menghadirkan solusi inovatif 
 </div>
 
 ### 1. Dataset
-- Data Collection
-  
-- Data Cleaning
+- Fitur Prediksi
+
+  Kami menggunakan dataset deteksi stunting balita dari Kaggle untuk memprediksi status gizi bayi. Dataset ini terdiri dari 121.000 baris data yang mencakup usia (bulan), jenis kelamin, tinggi badan (cm), dan status gizi (severely stunted, stunted, normal, tinggi). Dataset ini gratis dan mudah diakses di Kaggle.
+- Fitur Chatbot
+
+  Kami menggunakan dataset CSV yang diinput manual untuk fitur chatbot. Data berisi pertanyaan dan jawaban terkait stunting dan tumbuh kembang anak dari sumber valid. Dataset ini dikonversi ke format JSON untuk mempermudah pemahaman chatbot.
+
+
   
 ### 2. Algorithm
 - Framework

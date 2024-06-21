@@ -1,4 +1,5 @@
-# Maasive Project Group 12
+<p style="text-align: center;">This is a Machine Learning / AI Project </p>
+
 
 ## Pengenalan Massive
 Pelaksanaan Project Massive ini merupakan project terakhir dimana dalam project ini tim project dari program AAI berkolaborasi dengan tim project lintas program yaitu teman-teman tim web dan mobile untuk bersama-sama merancang sebuah aplikasi berserta website dengan implementasi penerapan kecerdasan buatan didalamnya.

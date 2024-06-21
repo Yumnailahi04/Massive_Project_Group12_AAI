@@ -1,6 +1,8 @@
 
 ## Massive Project Group 12 AAI
-
+<div style="text-align: center;">
+  <h1>Massive Project Group 12 AAI</h1>
+</div>
 <h3 style="text-align: center;">Pengenalan Massive </h3>
 Pelaksanaan Project Massive ini merupakan project terakhir dimana dalam project ini tim project dari program AAI berkolaborasi dengan tim project lintas program yaitu teman-teman tim web dan mobile untuk bersama-sama merancang sebuah aplikasi berserta website dengan implementasi penerapan kecerdasan buatan didalamnya.
 
@@ -17,3 +19,6 @@ Pelaksanaan Project Massive ini merupakan project terakhir dimana dalam project 
 | Masta Angel Valentina  | [Masta Angel Valentina](https://github.com/angelvlntnn)|
 | Roes Byandra  | [byandra](https://github.com/byandra)|
 | Yumna Ilahi    | [Yumna Ilahi](https://github.com/Yumnailahi04)|
+
+### Idea Background
+

@@ -57,6 +57,17 @@ Melihat permasalahan tersebut, kami tergerak untuk menghadirkan solusi inovatif 
   <h2>Prototype</h2>
 </div>
 
+### 1. Fitur Prediksi 
+![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/619ee0b0-316a-4f28-a2fc-c2f03c6243b9)
+
+Diagram alir tersebut menggambarkan alur kerja sistem prediksi tingkat kesehatan status gizi yang kami kembangkan. Dalam diagram alir tersebut proses dimulai dengan pengguna yang memasukkan data berupa umur, tinggi badan, dan jenis kelamin bayi. Data ini kemudian diproses dan dipersiapkan untuk dianalisis oleh model pembelajaran mesin. Setelah data diproses, data tersebut dimasukkan ke dalam model Machine Learning untuk diklasifikasikan ke dalam kategori status gizi balita yang sesuai. Model akan menghasilkan distribusi probabilitas yang menunjukkan kemungkinan tingkat kesehatan status gizi balita tersebut. Jika model memiliki keyakinan tinggi terhadap prediksinya, hasil prediksi yang paling mungkin akan ditampilkan kepada pengguna. Namun, jika model tidak yakin dengan prediksinya, model akan memberikan pesan bahwa prediksi tidak dapat ditentukan. Proses ini berakhir ketika pengguna menerima prediksi atau hasil output yang dihasilkan oleh model Machine Learning tersebut. 
+
+### 2. Fitur Chatbot
+![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/4d82221a-313f-4b4c-950a-5d5c18895645)
+
+Diagram alir tersebut menggambarkan alur kerja stuncare chatbot yang kami kembangkan. Dalam diagram alir tersebut, pengguna memulai dengan memasukkan pesan atau pertanyaan ke dalam chatbot. Chatbot kemudian akan memproses input tersebut menggunakan teknik Natural Language Processing (NLP) untuk mengubahnya menjadi query yang dapat dipahami oleh sistem. Berdasarkan query yang telah diproses, chatbot akan memilih respons yang paling sesuai dari database yang tersedia. Hasil pemilihan ini kemudian dikembalikan ke model bahasa besar (Large Language Model) untuk diolah lebih lanjut sehingga menjadi respons yang lebih manusiawi dan natural. Akhirnya, output yang telah dipoles ini dikirim kembali kepada pengguna sebagai jawaban dari chatbot.  
+
+
 <div style="text-align: center;">
   <h2>Integration</h2>
 </div>
@@ -87,6 +98,9 @@ Untuk fitur chatbot sendiri proses deploymentnya itu berupa proses publishing ch
 ![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/83496cd8-7f27-4b0c-8c02-f1a707bdfd14)
 
 ### 2. Fitur Chatbot
+![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/aa14b954-2e2e-4695-bd98-96da527354cd)
+  ![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/040c284a-ec75-4d01-a011-225e3c814627)
+ ![image](https://github.com/Yumnailahi04/Massive_Project_Group12_AAI/assets/154740771/8e05d7b8-0b5c-444d-b586-53839a29591d)
 
 <div style="text-align: center;">
   <h2>conclusion</h2>
